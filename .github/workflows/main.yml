@@ -11,7 +11,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest  # Cambiar a Ubuntu para mejor compatibilidad con Docker
+    runs-on: ubuntu-latest  
 
     steps:
     - name: Checkout code
